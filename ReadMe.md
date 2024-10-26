@@ -80,3 +80,7 @@ The generative model then uses this structured, contextually rich information to
 **Summary**
 A knowledge graph enriches the RAG system by adding structured, contextualized, and disambiguated data, resulting in responses that are more accurate, relevant, and comprehensive. 
 It’s a powerful addition that allows RAG to handle complex queries effectively, especially in specialized or rapidly changing fields.
+
+**Output**
+
+![Chatbot RAG Flow](kg_output.png)
